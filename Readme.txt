@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Belajar Menggunakan Template Web:
 
 Template Name: Kelly
 Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
